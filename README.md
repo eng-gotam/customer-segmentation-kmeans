@@ -1,2 +1,25 @@
-# customer-segmentation-kmeans
-Machine learning project for customer segmentation using K-Means clustering. The project identifies distinct insurance customer groups based on demographic and financial features to support data-driven marketing and business decisions
+# Customer Segmentation using K-Means
+
+## Objective
+To segment insurance customers into meaningful groups using machine learning.
+
+## Tools Used
+Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+## Steps
+- Data Cleaning
+- EDA
+- Feature Scaling
+- K-Means Clustering
+- Cluster Analysis
+- Business Insights
+
+## Results
+Identified 4 customer segments:
+- High-Income Professionals
+- Budget-Conscious Customers
+- Value-Seeking Customers
+- Senior Premium Customers
+
+## Conclusion
+This model helps businesses target customers more effectively.
